@@ -12,15 +12,7 @@
 - 💼 Looking for my first job as a Web developer.
 -⚡ Fun fact: I love to play Cricket & Video Games.
 
-### Connect with me:
-
-[<img align="left" alt="thamrk.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ahtesham | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ahtesham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ahtesham | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
 <br />
-
 ### Languages and Tools:
 
 
@@ -35,6 +27,15 @@
 <br />
 <br />
 
+---
+### Connect with me:
+
+[<img align="left" alt="thamrk.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ahtesham | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ahtesham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ahtesham | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+<br />
 [website]: https://thamrk.com/
 [twitter]: https://twitter.com/ahteshamurrahmn
 [linkedin]: https://www.linkedin.com/in/ahteshamur-rahman-khan-293285190/
