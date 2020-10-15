@@ -1,4 +1,4 @@
-Hi :raised_hand I'm Ahteshamur Rahman Khan - [Ahteshamur][website] :boy:
+Hi ✋ I'm Ahteshamur Rahman Khan - [Ahteshamur][website] :boy:
 
 [![Website](https://img.shields.io/website?label=thamrk.com&style=for-the-badge&url=https%3A%2F%2Fthamrk.com)](https://thamrk.com/)
 <a href="https://www.linkedin.com/in/ahteshamur-rahman-khan-293285190/"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
