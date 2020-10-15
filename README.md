@@ -11,7 +11,7 @@
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
 - 💼 Looking for my first job as a Web developer.
 -⚡ Fun fact: I love to play Cricket & Video Games.
-
+<br />
 
 
 ### Languages and Tools:
@@ -38,7 +38,7 @@
 
 <br />
 
----
+
 
 
 [website]: https://thamrk.com/
