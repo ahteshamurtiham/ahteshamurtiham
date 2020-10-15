@@ -12,7 +12,8 @@
 - 💼 Looking for my first job as a Web developer.
 -⚡ Fun fact: I love to play Cricket & Video Games.
 
-<br />
+
+
 ### Languages and Tools:
 
 
@@ -36,8 +37,11 @@
 [<img align="left" alt="ahtesham | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
+
+---
+
+
 [website]: https://thamrk.com/
 [twitter]: https://twitter.com/ahteshamurrahmn
 [linkedin]: https://www.linkedin.com/in/ahteshamur-rahman-khan-293285190/
 [facebook]: https://www.facebook.com/ahteshamurrahman.khan.106
-
