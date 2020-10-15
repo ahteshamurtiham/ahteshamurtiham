@@ -35,15 +35,6 @@
 <br />
 <br />
 
----
-
-### 📁 Latest Work & Portfolio
-
-➡️ [Project...](https://thamrk.com/portfolio.html)
-
----
-
-
 [website]: https://thamrk.com/
 [twitter]: https://twitter.com/ahteshamurrahmn
 [linkedin]: https://www.linkedin.com/in/ahteshamur-rahman-khan-293285190/
